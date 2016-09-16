@@ -6,9 +6,6 @@ publication-date: 1836
 source: "More, Hannah. The Works of Hannah More. Vol. 2. London: H. Fisher, 1836."
 ---
 
-# The Two Shoemakers
-## Hannah More
-
 could not bear to be contradicted in any thing. And this is the common notion of meekness among people who do not take up their notions on rational and Christian grounds.
 
 
