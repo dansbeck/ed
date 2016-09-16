@@ -1,3 +1,11 @@
+---
+layout: narrative
+title: The Two Shoemakers
+author: Hannah More
+publication-date: 1836
+source: "More, Hannah. The Works of Hannah More. Vol. 2. London: H. Fisher, 1836."
+---
+
 # The Two Shoemakers
 ## Hannah More
 
